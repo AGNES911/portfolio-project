@@ -1,3 +1,37 @@
-body {
-  background-color: aqua;
+.hero {
+  background-color: #f9f7fe;
+  text-align: center;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: black;
+  font-family: "poppins" sans-serif;
+  font-weight: bold;
+}
+h1 {
+  font-size: 96px;
+}
+.hero p {
+  font-family: "poppins" sans-serif;
+  font-weight: bold;
+  margin: 0%;
+}
+.hero h2 {
+  font-family: "poppins" sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 2;
+  color: #272142;
+}
+.btn-branding {
+  background-color: #6c63ff;
+  border-radius: 4px;
+  color: #ffff;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 12px 20px;
 }
