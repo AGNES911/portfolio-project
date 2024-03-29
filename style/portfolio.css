@@ -102,3 +102,17 @@ p {
     text-align: center;
   }
 }
+.about-body h1 {
+  font-size: 64px;
+  line-height: 1;
+}
+.about-body h2 {
+  font-size: 30px;
+  line-height: 1;
+}
+.about-body p {
+  font-size: 18px;
+}
+.about-section {
+  padding: 160px 20px;
+}
