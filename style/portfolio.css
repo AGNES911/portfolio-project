@@ -40,7 +40,7 @@ p {
   border-radius: 4px;
   color: #ffff;
   font-size: 18px;
-  line-height: 27px;
+  line-height: 20px;
   padding: 12px 20px;
 }
 .button-branding {
@@ -140,6 +140,9 @@ p {
   padding-top: 10px;
   margin-top: 5px;
 }
+.END {
+  justify-content: left;
+}
 
 .contact-details {
   text-align: center;
@@ -156,4 +159,8 @@ p {
   margin-left: 300px;
   display: inline;
   font-size: x-large;
+}
+.Form-bar {
+  display: flex;
+  justify-content: left;
 }
